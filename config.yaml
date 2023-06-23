@@ -1,0 +1,11 @@
+#absolute path of directory containing whole data directory
+path: E:\OIP23\Work3\data
+train: images
+val: images
+
+
+# classes
+names:
+  0: Healthy
+  1: Moderate
+  2: Unhealthy
